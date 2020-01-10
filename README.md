@@ -29,3 +29,16 @@
 * 06_fee.lua
 1. 배포
 2. 계약 주소로 1 전송
+
+* 07_random.lua
+1. 배포
+2. 계약 주소로 TX 생성
+
+* 08_storetx.lua
+1. 배포
+2. 계약 주소로 TX 생성
+
+* 09_storetx1.lua
+1. 배포
+2. setTXId 실행
+3. getTXid 쿼리
