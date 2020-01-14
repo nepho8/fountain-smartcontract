@@ -10,7 +10,7 @@
 2. setTestValue(1000) 실행
 3. getTestValue() 실행
 
-* 03_getset.lua
+* 03_default.lua
 1. 배포
 2. default() 실행
 3. getTestValue() 실행
